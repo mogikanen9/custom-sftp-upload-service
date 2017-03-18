@@ -10,3 +10,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.prefs
+
+.project
+
+sftp-servlet-service/.classpath
+
+sftp-servlet-service/.settings/.jsdtscope
+
+*.component
+
+*.container
+
+*.name
+
+sftp-servlet-service/.settings/org.eclipse.wst.common.project.facet.core.xml
+
+sftp-servlet-service/src/main/webapp/META-INF/MANIFEST.MF
